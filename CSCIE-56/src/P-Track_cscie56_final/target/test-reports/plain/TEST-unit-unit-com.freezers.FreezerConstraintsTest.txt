@@ -1,0 +1,22 @@
+Testsuite: com.freezers.FreezerConstraintsTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 1.971 sec
+------------- Standard Output ---------------
+--Output from testShelfSize--
+--Output from testNameNull--
+--Output from testRackSize--
+--Output from testNameSizeTooLarge--
+--Output from testNameSizeTooSmall--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testShelfSize--
+--Output from testNameNull--
+--Output from testRackSize--
+--Output from testNameSizeTooLarge--
+--Output from testNameSizeTooSmall--
+------------- ---------------- ---------------
+
+Testcase: testShelfSize took 1.795 sec
+Testcase: testNameNull took 0.028 sec
+Testcase: testRackSize took 0.018 sec
+Testcase: testNameSizeTooLarge took 0.02 sec
+Testcase: testNameSizeTooSmall took 0.035 sec

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Lenovo-PC" name="com.freezers.FreezerConstraintsTest" tests="5" time="1.971" timestamp="2014-12-24T17:25:32">
+  <properties />
+  <testcase classname="com.freezers.FreezerConstraintsTest" name="testShelfSize" time="1.795" />
+  <testcase classname="com.freezers.FreezerConstraintsTest" name="testNameNull" time="0.028" />
+  <testcase classname="com.freezers.FreezerConstraintsTest" name="testRackSize" time="0.018" />
+  <testcase classname="com.freezers.FreezerConstraintsTest" name="testNameSizeTooLarge" time="0.019" />
+  <testcase classname="com.freezers.FreezerConstraintsTest" name="testNameSizeTooSmall" time="0.035" />
+  <system-out><![CDATA[--Output from testShelfSize--
+--Output from testNameNull--
+--Output from testRackSize--
+--Output from testNameSizeTooLarge--
+--Output from testNameSizeTooSmall--
+]]></system-out>
+  <system-err><![CDATA[--Output from testShelfSize--
+--Output from testNameNull--
+--Output from testRackSize--
+--Output from testNameSizeTooLarge--
+--Output from testNameSizeTooSmall--
+]]></system-err>
+</testsuite>

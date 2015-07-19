@@ -1,0 +1,5 @@
+--Output from testShelfSize--
+--Output from testNameNull--
+--Output from testRackSize--
+--Output from testNameSizeTooLarge--
+--Output from testNameSizeTooSmall--

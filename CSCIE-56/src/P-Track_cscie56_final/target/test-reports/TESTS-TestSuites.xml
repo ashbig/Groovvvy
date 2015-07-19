@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Lenovo-PC" id="0" name="FreezerConstraintsTest" package="com.freezers" tests="5" time="1.971" timestamp="2014-12-24T17:25:32">
+      <properties />
+
+      <testcase classname="com.freezers.FreezerConstraintsTest" name="testShelfSize" time="1.795" />
+
+      <testcase classname="com.freezers.FreezerConstraintsTest" name="testNameNull" time="0.028" />
+
+      <testcase classname="com.freezers.FreezerConstraintsTest" name="testRackSize" time="0.018" />
+
+      <testcase classname="com.freezers.FreezerConstraintsTest" name="testNameSizeTooLarge" time="0.019" />
+
+      <testcase classname="com.freezers.FreezerConstraintsTest" name="testNameSizeTooSmall" time="0.035" />
+
+      <system-out><![CDATA[--Output from testShelfSize--
+--Output from testNameNull--
+--Output from testRackSize--
+--Output from testNameSizeTooLarge--
+--Output from testNameSizeTooSmall--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testShelfSize--
+--Output from testNameNull--
+--Output from testRackSize--
+--Output from testNameSizeTooLarge--
+--Output from testNameSizeTooSmall--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Lenovo-PC" id="1" name="FreezerControllerSpec" package="com.freezers" tests="4" time="1.851" timestamp="2014-12-24T17:25:34">
+      <properties />
+
+      <testcase classname="com.freezers.FreezerControllerSpec" name="Test the index action returns the correct model" time="1.777" />
+
+      <testcase classname="com.freezers.FreezerControllerSpec" name="Test the create action returns the correct model" time="0.029" />
+
+      <testcase classname="com.freezers.FreezerControllerSpec" name="Test that the show action returns the correct model" time="0.019" />
+
+      <testcase classname="com.freezers.FreezerControllerSpec" name="Test that the edit action returns the correct model" time="0.016" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Lenovo-PC" id="2" name="PlateControllerSpec" package="com.freezers" tests="4" time="0.322" timestamp="2014-12-24T17:25:36">
+      <properties />
+
+      <testcase classname="com.freezers.PlateControllerSpec" name="Test the index action returns the correct model" time="0.249" />
+
+      <testcase classname="com.freezers.PlateControllerSpec" name="Test the create action returns the correct model" time="0.019" />
+
+      <testcase classname="com.freezers.PlateControllerSpec" name="Test that the show action returns the correct model" time="0.022" />
+
+      <testcase classname="com.freezers.PlateControllerSpec" name="Test that the edit action returns the correct model" time="0.02" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Lenovo-PC" id="3" name="RackControllerSpec" package="com.freezers" tests="4" time="0.234" timestamp="2014-12-24T17:25:36">
+      <properties />
+
+      <testcase classname="com.freezers.RackControllerSpec" name="Test the index action returns the correct model" time="0.16" />
+
+      <testcase classname="com.freezers.RackControllerSpec" name="Test the create action returns the correct model" time="0.017" />
+
+      <testcase classname="com.freezers.RackControllerSpec" name="Test that the show action returns the correct model" time="0.026" />
+
+      <testcase classname="com.freezers.RackControllerSpec" name="Test that the edit action returns the correct model" time="0.017" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Lenovo-PC" id="4" name="ShelfControllerSpec" package="com.freezers" tests="5" time="0.459" timestamp="2014-12-24T17:25:36">
+      <properties />
+
+      <testcase classname="com.freezers.ShelfControllerSpec" name="Test the index action returns the correct model" time="0.169" />
+
+      <testcase classname="com.freezers.ShelfControllerSpec" name="Test the create action returns the correct model" time="0.017" />
+
+      <testcase classname="com.freezers.ShelfControllerSpec" name="Test that the show action returns the correct model" time="0.017" />
+
+      <testcase classname="com.freezers.ShelfControllerSpec" name="Test that the edit action returns the correct model" time="0.019" />
+
+      <testcase classname="com.freezers.ShelfControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.224" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Lenovo-PC" id="5" name="RoleControllerSpec" package="com.springsecure" tests="5" time="0.27" timestamp="2014-12-24T17:25:37">
+      <properties />
+
+      <testcase classname="com.springsecure.RoleControllerSpec" name="Test the index action returns the correct model" time="0.137" />
+
+      <testcase classname="com.springsecure.RoleControllerSpec" name="Test the create action returns the correct model" time="0.012" />
+
+      <testcase classname="com.springsecure.RoleControllerSpec" name="Test that the show action returns the correct model" time="0.015" />
+
+      <testcase classname="com.springsecure.RoleControllerSpec" name="Test that the edit action returns the correct model" time="0.012" />
+
+      <testcase classname="com.springsecure.RoleControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.079" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Lenovo-PC" id="6" name="UserControllerSpec" package="com.springsecure" tests="4" time="0.199" timestamp="2014-12-24T17:25:37">
+      <properties />
+
+      <testcase classname="com.springsecure.UserControllerSpec" name="Test the index action returns the correct model" time="0.143" />
+
+      <testcase classname="com.springsecure.UserControllerSpec" name="Test the create action returns the correct model" time="0.012" />
+
+      <testcase classname="com.springsecure.UserControllerSpec" name="Test that the show action returns the correct model" time="0.022" />
+
+      <testcase classname="com.springsecure.UserControllerSpec" name="Test that the edit action returns the correct model" time="0.015" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
